@@ -1,0 +1,1 @@
+maxDays = LeapYear(year)?29:28;
